@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uqbar-dev.github.io/kb/sitemap.xml.gz
