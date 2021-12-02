@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Uqbar" width="400px" src="resources/logo.png" />
+  <img alt="Uqbar" width="400px" src="resources/logo.svg" />
 </p>
 
 
