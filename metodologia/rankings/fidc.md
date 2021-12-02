@@ -1,125 +1,91 @@
-# FII
+# FIDC
 
 ## Mercado Primário 
 
-### Cotas de FII 
+### FIDC 
 
-Tabela 1 - Ranking de Cotas de FII por Montante Emitido em 2019 (Todo Mercado) 
+Tabela1 - Ranking de FIDC por Montante Emitido em 2019 
 
-Tabela 2 - Ranking de Cotas de FII por Montante Emitido em 2019 (Fundos Listados) 
-
-Critério: Ordenam as cotas de FII por montante emitido durante o ano de 2019. O Ranking de Fundos Listados considera apenas os fundos que têm suas cotas listadas para negociação na B3. 
+!> **Critério**: Ordena as cotas de FIDC por montante emitido durante o ano de 2019. 
 
 ## Terceiros 
 
 ### Advogados 
 
-Tabela 3 - Ranking de Advogados por Montante Emitido em 2019 (Fundos Listados) 
+Tabela 2 - Ranking de Advogados por Montante Emitido em 2019 
 
-Tabela 4 - Ranking de Advogados por Número de Operações em 2019 (Fundos Listados) 
+Tabela 3 - Ranking de Advogados por Número de Operações em 2019 
 
-Critério: Ordenam os assessores legais de FII com base no montante emitido e no número de operações realizadas durante o ano de 2019 Quando dois ou mais escritórios de advogados assessoram conjuntamente um mesmo FII, o crédito é atribuído integralmente a todas as instituições. Os Rankings consideram apenas os fundos que têm suas cotas listadas para negociação na B3. O critério de desempate do Ranking por número de operações é o montante emitido, e vice-versa. 
+!> **Critério**: Ordenam os assessores jurídicos de FIDC com base no montante emitido e no número de operações realizadas durante o ano de 2019. A assessoria considerada neste ranking é aquela prestada pelo participante aos administradores, aos coordenadores líder, às cedentes, ou quando este atua como deal counsel no processo de estruturação do fundo. Quando dois ou mais escritórios de advogados assessoram conjuntamente um mesmo fundo, o crédito é atribuído integralmente a todas as instituições. Os rankings consideram apenas as operações efetivamente realizadas, através de sua primeira emissão, durante o ano de 2019. O critério de desempate do Ranking por número de operações é o montante emitido, e vice-versa. 
+
+### Agências de Classificação de Risco 
+
+Tabela 4 - Ranking de Agências de Classificação de Risco por Montante Classificado em 2019 
+
+Tabela 5 - Ranking de Agências de Classificação de Risco por Número de Títulos Classificados em 2019 
+
+!> **Critério**: Ordenam as agências de classificação de risco com base no montante classificado e no número de atribuições de classificações de risco emitidas por cada uma delas às cotas de FIDC durante o ano de 2019. O valor considerado nesses rankings é o montante total de títulos aos quais foi atribuída uma classificação e não o valor de toda a operação. Os rankings anuais consideram apenas as atribuições feitas durante o período sob análise para operações novas (registradas ou em processo de registro) ou antigas (realizadas em períodos anteriores, mas classificadas pelas agências em questão pela primeira vez durante o ano). As atividades de monitoramento das agências não são contabilizadas para suas posições nos rankings. Uma classificação, seja ela preliminar ou não, é contabilizada uma única vez. Quando um título recebe classificações de duas ou mais agências, o montante objeto da classificação é atribuído a ambas as agências. O critério de desempate do Ranking por número de títulos é o montante classificado, e vice-versa. 
 
 ### Estruturadores 
 
-Tabela 5 - Ranking de Estruturadores por Montante Emitido em 2019 (Fundos Listados) 
+Tabela 6 - Ranking de Estruturadores por Montante Emitido em 2019 
 
-Tabela 6 - Ranking de Estruturadores por Número de Operações em 2019 (Fundos Listados) 
+Tabela 7 - Ranking de Estruturadores por Número de Operações em 2019 
 
-Critério: Ordenam os estruturadores de FII com base no montante emitido e no número de operações realizadas durante o ano de 2019. Quando duas ou mais instituições estruturaram conjuntamente um mesmo FII, o crédito é atribuído integralmente a todas as instituições. Os Rankings consideram apenas os fundos que têm suas cotas listadas para negociação na B3. O critério de desempate do Ranking por número de operações é o montante emitido, e vice-versa. 
+!> **Critério**: Ordenam os estruturadores de FIDC com base no montante emitido e no número de operações realizadas durante o ano de 2019. Quando duas ou mais instituições estruturam conjuntamente um mesmo fundo, o crédito é atribuído integralmente a todas as instituições. Os rankings consideram apenas as operações efetivamente realizadas, através de sua primeira emissão, durante o ano de 2019. O critério de desempate do Ranking por número de operações é o montante emitido, e vice-versa. 
 
-### Líderes de Distribuição 
+## Estoque 
 
-Tabela 7 - Ranking de Líderes de Distribuição de Cotas por Montante Emitido em 2019 (Fundos Listados) 
+### FIDC 
 
-Tabela 8 - Ranking de Líderes de Distribuição de Cotas por Número de Títulos em 2019 (Fundos Listados) 
+Tabela 8 - Ranking de FIDC por Montante de PL em 2019 
 
-Critério: Ordenam os líderes de distribuição das cotas de FII com base no montante emitido e no número de cotas de FII distribuídas durante o ano de 2019. Os Rankings consideram apenas os fundos que têm suas cotas listadas para negociação na B3. O critério de desempate do Ranking por número de títulos é o montante emitido, e vice-versa. 
+Tabela 9 - Ranking de FIDC por Montante de PL – Consolidado 
 
-## Mercado Secundário 
-
-### Cotas de FII 
-
-#### Negociações 
-
-Tabela 9 - Ranking de Cotas de FII por Montante Negociado em 2019 
-
-Tabela 10 - Ranking de Cotas de FII por Número de Negócios em 2019 
-
-Critério: Ordenam as cotas de FII por montante negociado e por número de negócios realizados na B3 durante o ano de 2019. 
-
-#### Rentabilidade 
-
-Tabela 11 - Ranking de Cotas de FII por Variação de Preço em 2019 
-
-Critério: Ordena as cotas de FII pela variação de preço no ano de 2019. A variação de preço de cota dos fundos é calculada usando-se os preços médios da cota de cada fundo nos meses de dezembro de 2018 e 2019, ponderados pelos montantes negociados nestes meses em ambientes de bolsa ou balcão organizado da B3. As cotas são excluídas do Ranking se houver alguma amortização entre dezembro de 2018 (exclusive) e dezembro de 2019 (inclusive). A cota também é excluída do Ranking se em dezembro de 2018 ou dezembro de 2019 o montante negociado for menor que R$100,0 mil ou o número de negócios for menor que 10. 
-
-Tabela 12 - Ranking de Cotas de FII por Dividend Yield Realizado em 2019 
-
-Critério: Ordena as cotas FII pelo dividend yield indicados em dezembro de 2019. O dividend yield realizado é calculado somando-se os rendimentos distribuídos pelos fundos ao longo dos últimos doze meses dividido pelo valor da cota em dezembro de 2018. O valor da cota é o preço médio de negociação no mês, ponderado pelo montante negociado na B3. As cotas são excluídas do Ranking se houver alguma amortização entre dezembro de 2018 (exclusive) e dezembro de 2019 (inclusive). A cota também é excluída do Ranking se em dezembro de 2018 o montante negociado for menor que R$100,0 mil ou o número de negócios for menor que 10. 
-
-Tabela 13 - Ranking de Cotas de FII por Rentabilidade Efetiva em 2019 
-
-Critério: Ordena as cotas de FII pela rentabilidade efetiva no ano de 2019. A rentabilidade efetiva é calculada usando-se a Taxa Interna de Retorno, levando-se em conta as amortizações e os rendimentos distribuídos pelos fundos ao longo do ano e a variação de preço de cota destes. Por sua vez, a variação de preço de cota dos fundos é calculada usando-se os preços médios da cota de cada fundo nos meses de dezembro de 2018 e 2019, ponderados pelos montantes negociados nestes meses em ambientes de bolsa ou balcão organizado da B3. A cota é excluída do Ranking se em dezembro de 2018 ou dezembro de 2019 o montante negociado for menor que R$100,0 mil ou o número de negócios for menor que 10. 
-
-#### Capitalização 
-
-Tabela 14 - Ranking de Cotas de FII por Capitalização de Mercado 
-
-Critério: Ordena as cotas dos FII pela capitalização de mercado em dezembro de 2019. A capitalização de mercado das cotas é calculada multiplicando-se o valor da cota em dezembro de 2019 e o número de cotas emitidas e integralizadas até o final deste mês (quantidade). O valor da cota é o preço médio de negociação no mês, ponderado pelo montante negociado naquele mês em ambientes de bolsa ou balcão organizado da B3. A cota é excluída do Ranking se em dezembro de 2019 o montante negociado for menor que R$100,0 mil ou o número de negócios for menor que 10. 
-
-Tabela 15 - Ranking de Cotas de FII por Capitalização de Mercado sobre Patrimônio Líquido 
-
-Critério: Ordena as cotas de FII negociadas na B3 pelo indicador capitalização de mercado sobre patrimônio líquido (valor de mercado sobre valor patrimonial). O indicador é calculado pela divisão entre (i) a capitalização de mercado em dezembro de 2019 e (ii) o patrimônio líquido em dezembro de 2019. A capitalização de mercado dos fundos é calculada conforme o critério da tabela 14. 
+!> **Critério**: Ordenam os FIDC por montante de PL no último dia do ano de 2019. O ranking anual considera apenas os fundos que efetivamente entraram em operação, através de sua primeira emissão de cotas, durante o ano de 2019. O fundo cujo valor do PL não tenha sido divulgado para o dia em questão não é considerado para o ranking. 
 
 ## Terceiros 
 
 ### Administradores 
 
-Tabela 16 - Ranking de Administradores por Capitalização de Mercado 
+Tabela 10 - Ranking de Administradores por Montante de PL em 2019 
 
-Tabela 17 - Ranking de Administradores por Número de Fundos Negociados 
+Tabela 11 - Ranking de Administradores por Número de Operações em 2019 
 
-Critério: Ordenam os administradores de FII com base no número de fundos no último dia útil do ano de 2019, e no montante agregado de capitalização de mercado dos fundos. A capitalização de mercado dos fundos é calculada conforme o critério da tabela 14. O critério de desempate do Ranking por número de fundos é a capitalização de mercado, e vice-versa. 
+Tabela 12 - Ranking de Administradores por Montante de PL – Consolidado 
 
-### Gestores 
+Tabela 13 - Ranking de Administradores por Número de Operações - Consolidado 
 
-Tabela 18 - Ranking de Gestores por Capitalização de Mercado 
-
-Tabela 19 - Ranking de Gestores por Número de Fundos Negociados 
-
-Critério: Ordenam os gestores de FII com base no número de fundos no último dia útil do ano de 2019, e no montante agregado de capitalização de mercado dos fundos. A capitalização de mercado dos fundos é calculada conforme o critério da tabela 14. O critério de desempate do Ranking por número de fundos é a capitalização de mercado, e vice-versa. 
-
-## Estoque  
-
-### FII 
-
-Tabela 20 - Ranking de FII por Patrimônio Líquido (Todo Mercado) 
-
-Critério: Ordena os FII pelo patrimônio líquido (PL) do último dia útil do ano de 2019. 
-
-## Terceiros 
-
-### Administradores 
-
-Tabela 21 - Ranking de Administradores por Patrimônio Líquido (Todo Mercado) 
-
-Tabela 22 - Ranking de Administradores por Número de Fundos (Todo Mercado) 
-
-Critério: Ordenam os administradores de FII por número de fundos e por montante agregado de PL dos fundos no último dia do ano de 2019. O fundo cujo valor do PL não tenha sido divulgado para o dia em questão não é considerado para os Rankings. O critério de desempate do Ranking por número de fundos é o patrimônio líquido, e vice-versa. 
+!> **Critério**: Ordenam os administradores de FIDC por montante agregado de PL dos fundos no último dia do ano de 2019. Os rankings anuais consideram apenas os fundos que efetivamente entraram em operação, através de sua primeira emissão de cotas, durante o ano de 2019. O fundo cujo valor do PL não tenha sido divulgado para o dia em questão não é considerado para os rankings. O critério de desempate do Ranking por número de operações é o montante de PL, e vice-versa. 
 
 ### Auditores 
 
-Tabela 23 - Ranking de Auditores por Patrimônio Líquido (Todo Mercado) 
+Tabela 14 - Ranking de Auditores por Montante de PL – Consolidado 
 
-Tabela 24 - Ranking de Auditores por Número de Fundos (Todo Mercado) 
+Tabela 15 - Ranking de Auditores por Número de Operações – Consolidado  
 
-Critério: Ordenam os auditores de FII por número de fundos e por montante agregado de PL dos fundos no último dia do ano de 2019. O fundo cujo valor do PL não tenha sido divulgado para o dia em questão não é considerado para os Rankings. O critério de desempate do Ranking por número de fundos é o patrimônio líquido, e vice-versa. 
+!> **Critério**: Ordenam os auditores de FIDC por montante agregado de PL dos fundos no último dia do ano de 2019. O fundo cujo valor do PL não tenha sido divulgado para o dia em questão não é considerado para os rankings. O critério de desempate do Ranking por número de operações é o montante de PL, e vice-versa. 
+
+### Custodiantes 
+
+Tabela 16 - Ranking de Custodiantes por Montante de PL em 2019 
+
+Tabela 17 - Ranking de Custodiantes por Número de Operações em 2019 
+
+Tabela 18 - Ranking de Custodiantes por Montante de PL - Consolidado 
+
+Tabela 19 - Ranking de Custodiantes por Número de Operações - Consolidado 
+
+!> **Critério**: Ordenam os custodiantes de FIDC por montante agregado de PL dos fundos no último dia do ano de 2019. Os rankings anuais consideram apenas os fundos que efetivamente entraram em operação, através de sua primeira emissão de cotas, durante o ano de 2019. O fundo cujo valor do PL não tenha sido divulgado para o dia em questão não é considerado para os rankings. O critério de desempate do Ranking por número de operações é o montante de PL, e vice-versa. 
 
 ### Gestores 
 
-Tabela 25 - Ranking de Gestores FII por Patrimônio Líquido (Todo Mercado) 
+Tabela 20 - Ranking de Gestores por Montante de PL em 2019 
 
-Tabela 26 - Ranking de Gestores por Número de Fundos (Todo Mercado) 
+Tabela 21 - Ranking de Gestores por Número de Operações em 2019 
 
-Critério: Ordenam os gestores de FII por número de fundos e por montante agregado de PL dos fundos no último dia do ano de 2019. O fundo cujo valor do PL não tenha sido divulgado para o dia em questão não é considerado para os Rankings. O critério de desempate do Ranking por número de fundos é o patrimônio líquido, e vice-versa. 
+Tabela 22 - Ranking de Gestores por Montante de PL – Consolidado 
+
+Tabela 23 - Ranking de Gestores por Número de Operações – Consolidado 
+
+!> **Critério**: Ordenam os gestores de FIDC por montante agregado de PL dos fundos no último dia do ano de 2019. Os rankings anuais consideram apenas os fundos que efetivamente entraram em operação, através de sua primeira emissão de cotas, durante o ano de 2019. O fundo cujo valor do PL não tenha sido divulgado para o dia em questão não é considerado para os rankings. O critério de desempate do Ranking por número de operações é o montante de PL, e vice-versa. 
