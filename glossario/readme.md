@@ -1,3 +1,7 @@
+---
+icon: note
+---
+
 # Glossário
 
 ## A
