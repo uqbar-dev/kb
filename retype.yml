@@ -3,6 +3,8 @@ output: .retype
 url: https://uqbar-dev.github.io/kb/
 
 branding:
+  logo: resources/logo.png
+  logoDark: resources/logo.svg
   title: Base de Conhecimento
   label: by Uqbar
 
