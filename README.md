@@ -1,3 +1,7 @@
+---
+label: Início
+icon: home
+---
 ![](../resources/logo.png)
 
 Essa Base de Conhecimento tem o propósito de difundir para o mercado as definições, os critérios, as práticas e a metodologia adotada pela Uqbar frente ao mercado de finanças estruturadas.
