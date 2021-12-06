@@ -4,8 +4,8 @@ url: https://uqbar-dev.github.io/kb/
 
 branding:
   logo: resources/logo.png
-  logoDark: resources/logo.svg
   label: v0.0.1
+  logoAlign: center
 
 meta:
   title: " | Encontre tudo que você precisa"
