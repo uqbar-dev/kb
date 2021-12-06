@@ -8,7 +8,7 @@ Essa Base de Conhecimento tem o propósito de difundir para o mercado as defini�
 
 🚧 Em Desenvolvimento!
 
-[!button variant="info" icon=":rocket:" iconAlign="right" text="Glossário"]
+[!button variant="info" icon=":rocket:" iconAlign="right" text="Glossário"](/glossario)
 
 [!button variant="info" icon=":compass:" iconAlign="right" text="Critérios, Definições e Metodologias"]
 
